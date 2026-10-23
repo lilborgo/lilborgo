@@ -8,6 +8,4 @@ Most of my work lives in private company repositories, so what's public here is 
 
 **Stack** — C · Kotlin · Python · C++ · Java · Zephyr RTOS · STM32 · Spring Boot · PostgreSQL · Docker · Linux / NixOS
 
-I develop with AI coding agents, and build the test harnesses that verify what they write.
-
 BSc Computer Engineering — Politecnico di Milano
